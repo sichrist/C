@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <string.h>
-#include <time.h>
 #include <X11/Xlib.h>
 
 void show_clip(Display *display, Window target_window, Atom target_property)
